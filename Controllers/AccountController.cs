@@ -43,11 +43,11 @@ namespace AccountMicroservice.Controllers
         };*/
         public static List<CurrentAccount> currentAccounts = new List<CurrentAccount>()
         {
-            new CurrentAccount{CAId=201,CBal=1000}
+            new CurrentAccount{CAId=202,CBal=1000}
         };
         public static List<SavingsAccount> savingsAccounts = new List<SavingsAccount>()
         {
-            new SavingsAccount{SAId=202,SBal=3000}
+            new SavingsAccount{SAId=203,SBal=3000}
         };
 
         // GET: api/<AccountController>

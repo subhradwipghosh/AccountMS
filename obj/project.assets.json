@@ -415,11 +415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\subhr\\Desktop\\Angular-api\\shobhan\\AccountMicroservice\\AccountMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\subhr\\Desktop\\Project\\Final\\AccountMicroservice\\AccountMicroservice.csproj",
       "projectName": "AccountMicroservice",
-      "projectPath": "C:\\Users\\subhr\\Desktop\\Angular-api\\shobhan\\AccountMicroservice\\AccountMicroservice.csproj",
+      "projectPath": "C:\\Users\\subhr\\Desktop\\Project\\Final\\AccountMicroservice\\AccountMicroservice.csproj",
       "packagesPath": "C:\\Users\\subhr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\subhr\\Desktop\\Angular-api\\shobhan\\AccountMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\subhr\\Desktop\\Project\\Final\\AccountMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
